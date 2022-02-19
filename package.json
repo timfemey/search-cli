@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "search",
+  "version": "1.0.0",
+  "description": "Search for words and get their meanings or context",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "wikipedia-api"
+  ],
+  "author": "Ishola Obafemi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
