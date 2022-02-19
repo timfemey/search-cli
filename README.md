@@ -3,4 +3,4 @@
 <br/>
 <p>axios module is required for this project and Node v8 upwards</p>
 <br/>
-<p>Run `node index.js` on your CLI to start usage</p>
+<p>Run <code>node index.js</code> on your CLI to start usage</p>
